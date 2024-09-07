@@ -41,24 +41,24 @@ The Jenkins pipeline is defined in the `Jenkinsfile` and includes the following 
 
 ## Workflow Diagram:
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ddddd690-5ba3-42ce-9ecd-18cd6d2bb392/d30a0713-86c5-4948-8ae0-6b50fdc92066/image.png)
+![image](https://github.com/user-attachments/assets/fc3a3df0-f92a-4cd3-9471-bc4a9c2f5d61)
 
 ## AWS EC2:
 
-![aws.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ddddd690-5ba3-42ce-9ecd-18cd6d2bb392/e1445a95-1663-43fa-8efb-e293d2a023f5/aws.png)
+![image](https://github.com/user-attachments/assets/16ed273e-6363-4c3f-aff2-37007d788430)
 
 ## Pipeline Stage view:
 
-![cicd.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ddddd690-5ba3-42ce-9ecd-18cd6d2bb392/e3c6deca-7461-4d22-8868-b3ce6e3e8950/cicd.png)
+![image](https://github.com/user-attachments/assets/99dcb610-9eab-4b8c-a784-b1a441a9ada5)
 
 ## SonarQube Analysis:
 
-![sonarqube.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ddddd690-5ba3-42ce-9ecd-18cd6d2bb392/fe5907f7-c931-4bc8-bd71-551b8bbe4b1d/sonarqube.png)
-![sonarqube1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ddddd690-5ba3-42ce-9ecd-18cd6d2bb392/326b86d1-0abb-410f-8128-34f50b6acde0/sonarqube1.png)
+![image](https://github.com/user-attachments/assets/7e309a8b-6517-409d-ac0c-fe636d886c59)
+![image](https://github.com/user-attachments/assets/d4aeab45-b26b-43b1-a219-661c40283a6e)
 
 ## DockerHub:
 
-![dh.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ddddd690-5ba3-42ce-9ecd-18cd6d2bb392/5aaee794-fd34-4ce2-9e8f-a9fb1f5aa8b7/dh.png)
+![image](https://github.com/user-attachments/assets/cf5e6c52-91b0-41b8-aa16-626f5a5a4a06)
 
 ## Pipeline code is in Jenkinsfile
 
